@@ -24,7 +24,6 @@ class PremiumCoffeeMachine(
     }
 
 }
-
 fun main() {
 
     val coffeeMachine = BaseCoffeeMachine(59.99, "red")
